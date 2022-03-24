@@ -1,7 +1,6 @@
-### Luca Postiglione
-## Reaserch Fellow at [UNISA](https://www.unisa.it). 
-## Rust, Cloud and Parallel/Distributed computing enjoyer.
-#
+# Luca Postiglione
+## Reaserch Fellow at [UNISA](https://www.unisa.it). Rust, Cloud and Parallel/Distributed computing enjoyer.
+
 
 <p align="center">
     <br>
