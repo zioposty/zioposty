@@ -13,15 +13,15 @@
 </p>
 <samp>
 
-👋 Hi, I'm Luca Postiglione, a software developer and a never-ending student.
+👋 Hi, I'm Luca Postiglione, a software developer, researcher and a never-ending student.
 
 📫 How to reach me:
 - Personal e-mail:        <lucapostiglione10@gmail.com>
 - Institutional e-mail:   <l.postiglione@unisa.it>
 
-🔭 I’m currently working on [Rust-AB](https://github.com/rust-ab), a discrete events simulation engine for developing Agent-Based Model simulation exploiting the Rust language to provide efficiency, reliability, and ease of use. I'm a core member, improving engine perfomance and developing new features such as model-exploration using genetic algorithms and bayesian optimization. 
+🔭 I’m currently working on [Rust-AB](https://github.com/rust-ab), a discrete events simulation engine for developing Agent-Based Model simulation exploiting the Rust language to provide efficiency, reliability, and ease of use. I'm a core member, improving engine perfomance and developing new features such as model-exploration using genetic algorithms and bayesian optimization based on metaprogramming.
 
-📖 I have a master's degree in Computer Science, with a focus on Cloud, Distributed and Parallel Computing.
+📖 I have a master's degree in Computer Science, with a focus on Cloud, Distributed and Parallel Computing. I graduated at [UNISA](https://www.unisa.it), where actually I'm working as research fellow.
 </samp>
 
 <!--
